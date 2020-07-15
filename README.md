@@ -2,7 +2,7 @@
 SwiftUI Application
 
 
-** iPhone Screenshots
+**iPhone Screenshots**
 
 ![card-1](https://user-images.githubusercontent.com/29502126/87510120-d652db80-c627-11ea-9ff4-7a38e4022609.png)
 ![card-2](https://user-images.githubusercontent.com/29502126/87510125-d81c9f00-c627-11ea-8b57-c4c84f54fc4c.png)
