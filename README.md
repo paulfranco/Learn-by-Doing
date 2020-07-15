@@ -1,5 +1,5 @@
 # Learn-by-Doing
-SwiftUI Application
+Create beautiful iOS applications with SwiftUI
 
 
 **iPhone Screenshots**
